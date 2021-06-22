@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAMPLE_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.sample.xsd">
+ <SAMPLE alias="UPSC-0174-S0001" center_name="UPSC">
+  <TITLE>F1a-09-16 </TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Female cone primordia of wild-type genotype sampled on Sep 16th 2016 replicate 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0174-S0002" center_name="UPSC">
+  <TITLE>F1b-09-16 </TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Female cone primordia of wild-type genotype sampled on Sep 16th 2016 replicate 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0174-S0003" center_name="UPSC">
+  <TITLE>F1c-09-16 </TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Female cone primordia of wild-type genotype sampled on Sep 16th 2016 replicate 3</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0174-S0004" center_name="UPSC">
+  <TITLE>FA1a-08-01 </TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Female cone meristem of acrocona genotype sampled on Aug 1st 2016 replicate 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0174-S0005" center_name="UPSC">
+  <TITLE>FA1a-10-18 </TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Female cone primordia of acrocona genotype sampled on Oct 18th 2016 replicate 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0174-S0006" center_name="UPSC">
+  <TITLE>FA1b-08-01 </TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Female cone meristem of acrocona genotype sampled on Aug 1st 2016 replicate 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0174-S0007" center_name="UPSC">
+  <TITLE>FA1b-10-18 </TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Female cone primordia of acrocona genotype sampled on Oct 18th 2016 replicate 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0174-S0008" center_name="UPSC">
+  <TITLE>FA1c-08-01 </TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Female cone meristem of acrocona genotype sampled on Aug 1st 2016 replicate 3</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0174-S0009" center_name="UPSC">
+  <TITLE>FA1c-10-18 </TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Female cone primordia of acrocona genotype sampled on Oct 18th 2016 replicate 3</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0174-S0010" center_name="UPSC">
+  <TITLE>TL1a-08-01 </TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Transition shoot meristem of acrocona genotype sampled on Aug 1st 20016 replicate 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0174-S0011" center_name="UPSC">
+  <TITLE>TL1a-10-18 </TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Transition shoot primordia of acrocona genotype sampled on Oct 18th 2016 replicate 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0174-S0012" center_name="UPSC">
+  <TITLE>TL1b-08-01 </TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Transition shoot meristem of acrocona genotype sampled on Aug 1st 20016 replicate 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0174-S0013" center_name="UPSC">
+  <TITLE>TL1b-10-18 </TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Transition shoot primordia of acrocona genotype sampled on Oct 18th 2016 replicate 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0174-S0014" center_name="UPSC">
+  <TITLE>TL1c-08-01 </TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Transition shoot meristem of acrocona genotype sampled on Aug 1st 20016 replicate 3</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0174-S0015" center_name="UPSC">
+  <TITLE>TL1c-10-18 </TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Transition shoot primordia of acrocona genotype sampled on Oct 18th 2016 replicate 3</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0174-S0016" center_name="UPSC">
+  <TITLE>VL1a-09-16 </TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Vegetative leading shoot primordia of wild- type genotype sampled on Sep 16th 2016 replicate 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0174-S0017" center_name="UPSC">
+  <TITLE>VL1a-10-25 </TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Vegetative leading shoot primordia of wild- type genotype sampled on Oct 25th 2016 replicate 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0174-S0018" center_name="UPSC">
+  <TITLE>VL1b-09-16 </TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Vegetative leading shoot primordia of wild- type genotype sampled on Sep 16th 2016 replicate 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0174-S0019" center_name="UPSC">
+  <TITLE>VL1b-10-25 </TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Vegetative leading shoot primordia of wild- type genotype sampled on Oct 25th 2016 replicate 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0174-S0020" center_name="UPSC">
+  <TITLE>VL1c-10-25 </TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Vegetative leading shoot primordia of wild- type genotype sampled on Oct 25th 2016 replicate 3</DESCRIPTION>
+ </SAMPLE>
+</SAMPLE_SET>
