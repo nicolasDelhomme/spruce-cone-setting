@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RUN_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.run.xsd">
+ <RUN alias="UPSC-0176-R0001" center_name="UPSC" run_center="SciLifeLab" run_date="2020-09-29T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0176-E0001"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0176/P17352_101_S10_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="942f12f957dd69572fa69be815ba2d94"/>
+    <FILE filename="UPSC-0176/P17352_101_S10_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="24809ce50898dcc42daeeea894b63839"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0176-R0002" center_name="UPSC" run_center="SciLifeLab" run_date="2020-09-29T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0176-E0002"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0176/P17352_102_S11_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="5c927b1396991016ccec6053dc98c0e6"/>
+    <FILE filename="UPSC-0176/P17352_102_S11_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="a3f666edb688d56482ffd1a125bbd43d"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0176-R0003" center_name="UPSC" run_center="SciLifeLab" run_date="2020-09-29T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0176-E0003"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0176/P17352_103_S12_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="01b49f18699e516327bbe61b6596e01b"/>
+    <FILE filename="UPSC-0176/P17352_103_S12_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="0ea828aa43496cb58de9e59a2fef2596"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0176-R0004" center_name="UPSC" run_center="SciLifeLab" run_date="2020-09-29T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0176-E0004"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0176/P17352_104_S13_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="bf3770e0ed31052f81c3cd98a2b647e3"/>
+    <FILE filename="UPSC-0176/P17352_104_S13_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="5dd64b68faa0ffd3c4dfa890a2e02df5"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0176-R0005" center_name="UPSC" run_center="SciLifeLab" run_date="2020-09-29T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0176-E0005"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0176/P17352_105_S14_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="1378e706f402117f5a9057c9c28acf45"/>
+    <FILE filename="UPSC-0176/P17352_105_S14_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="cfe35ffd42b9e614743ca05e80f17663"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0176-R0006" center_name="UPSC" run_center="SciLifeLab" run_date="2020-09-29T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0176-E0006"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0176/P17352_106_S15_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="f2f59f7076eccc32ba9c2b906b7147af"/>
+    <FILE filename="UPSC-0176/P17352_106_S15_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="2e53fd0ce8622d0f76f23600d56d3119"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0176-R0007" center_name="UPSC" run_center="SciLifeLab" run_date="2020-09-29T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0176-E0007"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0176/P17352_107_S16_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="c7a48ff0c72a0e382fc8f5a87ccf2662"/>
+    <FILE filename="UPSC-0176/P17352_107_S16_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="65041c2d2704d1e5162872cfbfef2958"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0176-R0008" center_name="UPSC" run_center="SciLifeLab" run_date="2020-09-29T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0176-E0008"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0176/P17352_108_S17_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="ced73a35e8aba6a142e57da9f9fe0d23"/>
+    <FILE filename="UPSC-0176/P17352_108_S17_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="3a01eae8cc5745b506121a0976e3b873"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0176-R0009" center_name="UPSC" run_center="SciLifeLab" run_date="2020-09-29T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0176-E0009"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0176/P17352_109_S18_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="37b22e2f1f0c4b49b81bb281354414f5"/>
+    <FILE filename="UPSC-0176/P17352_109_S18_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="0f298bee54aeb90adc7094df1e7f80b2"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0176-R0010" center_name="UPSC" run_center="SciLifeLab" run_date="2020-09-29T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0176-E0010"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0176/P17352_110_S19_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="fb493bcb19debc5bd2ef686497627449"/>
+    <FILE filename="UPSC-0176/P17352_110_S19_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="56aa5983478c270f91c29aad32d85dda"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0176-R0011" center_name="UPSC" run_center="SciLifeLab" run_date="2020-09-29T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0176-E0011"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0176/P17352_111_S20_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="567c84833f5a648f86ead94b6c40073b"/>
+    <FILE filename="UPSC-0176/P17352_111_S20_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="f6eb030e3366a10375bd8ef2ca559f08"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0176-R0012" center_name="UPSC" run_center="SciLifeLab" run_date="2020-09-29T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0176-E0012"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0176/P17352_112_S21_L001_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="8327d7a59330a282abbe98488e257d98"/>
+    <FILE filename="UPSC-0176/P17352_112_S21_L001_R2_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="3b2212251aaf66d1f1cd079ee990a5df"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+</RUN_SET>
