@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
+<RECEIPT receiptDate="2022-08-02T15:13:26.593+01:00" submissionFile="UPSC-0196.Submission.xml" success="true">
+     <EXPERIMENT accession="ERX9560810" alias="UPSC-0196-E0001" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX9560811" alias="UPSC-0196-E0002" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX9560812" alias="UPSC-0196-E0003" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX9560813" alias="UPSC-0196-E0004" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX9560814" alias="UPSC-0196-E0005" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX9560815" alias="UPSC-0196-E0006" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX9560816" alias="UPSC-0196-E0007" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX9560817" alias="UPSC-0196-E0008" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX9560818" alias="UPSC-0196-E0009" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX9560819" alias="UPSC-0196-E0010" status="PRIVATE"/>
+     <RUN accession="ERR10020120" alias="UPSC-0196-R0001" status="PRIVATE"/>
+     <RUN accession="ERR10020121" alias="UPSC-0196-R0002" status="PRIVATE"/>
+     <RUN accession="ERR10020122" alias="UPSC-0196-R0003" status="PRIVATE"/>
+     <RUN accession="ERR10020123" alias="UPSC-0196-R0004" status="PRIVATE"/>
+     <RUN accession="ERR10020124" alias="UPSC-0196-R0005" status="PRIVATE"/>
+     <RUN accession="ERR10020125" alias="UPSC-0196-R0006" status="PRIVATE"/>
+     <RUN accession="ERR10020126" alias="UPSC-0196-R0007" status="PRIVATE"/>
+     <RUN accession="ERR10020127" alias="UPSC-0196-R0008" status="PRIVATE"/>
+     <RUN accession="ERR10020128" alias="UPSC-0196-R0009" status="PRIVATE"/>
+     <RUN accession="ERR10020129" alias="UPSC-0196-R0010" status="PRIVATE"/>
+     <SAMPLE accession="ERS12553903" alias="UPSC-0196-S0001" status="PRIVATE" holdUntilDate="2024-08-01+01:00">
+          <EXT_ID accession="SAMEA110455873" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS12553904" alias="UPSC-0196-S0002" status="PRIVATE" holdUntilDate="2024-08-01+01:00">
+          <EXT_ID accession="SAMEA110455874" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS12553905" alias="UPSC-0196-S0003" status="PRIVATE" holdUntilDate="2024-08-01+01:00">
+          <EXT_ID accession="SAMEA110455875" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS12553906" alias="UPSC-0196-S0004" status="PRIVATE" holdUntilDate="2024-08-01+01:00">
+          <EXT_ID accession="SAMEA110455876" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS12553907" alias="UPSC-0196-S0005" status="PRIVATE" holdUntilDate="2024-08-01+01:00">
+          <EXT_ID accession="SAMEA110455877" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS12553908" alias="UPSC-0196-S0006" status="PRIVATE" holdUntilDate="2024-08-01+01:00">
+          <EXT_ID accession="SAMEA110455878" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS12553909" alias="UPSC-0196-S0007" status="PRIVATE" holdUntilDate="2024-08-01+01:00">
+          <EXT_ID accession="SAMEA110455879" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS12553910" alias="UPSC-0196-S0008" status="PRIVATE" holdUntilDate="2024-08-01+01:00">
+          <EXT_ID accession="SAMEA110455880" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS12553911" alias="UPSC-0196-S0009" status="PRIVATE" holdUntilDate="2024-08-01+01:00">
+          <EXT_ID accession="SAMEA110455881" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS12553912" alias="UPSC-0196-S0010" status="PRIVATE" holdUntilDate="2024-08-01+01:00">
+          <EXT_ID accession="SAMEA110455882" type="biosample"/>
+     </SAMPLE>
+     <STUDY accession="ERP140001" alias="UPSC-0196" status="PRIVATE" holdUntilDate="2024-08-01+01:00">
+          <EXT_ID accession="PRJEB55120" type="Project"/>
+     </STUDY>
+     <SUBMISSION accession="ERA16764137" alias="UPSC-0196"/>
+     <MESSAGES>
+          <INFO>All objects in this submission are set to private status (HOLD).</INFO>
+     </MESSAGES>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>HOLD</ACTIONS>
+</RECEIPT>

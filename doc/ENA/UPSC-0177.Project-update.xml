@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PROJECT_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<PROJECT center_name="UPSC" alias="UPSC-0177">
+<TITLE>Cone-setting in spruce is regulated by conserved elements of the Age-depended flowering pathway.</TITLE>
+<DESCRIPTION>Here, we utilize the early cone-setting acrocona mutant to study reproductive phase change in the conifer Picea abies; a representative of the gymnosperm lineage. The acrocona mutant frequently initiates cone-like structures, called transition shoots, in positions where wild-type P. abies always produces vegetative shoots. By sequence analysis of mRNA and microRNA transcripts, we demonstrate that a member of the SQUAMOSA BINDING PROTEIN-LIKE (SPL) gene family, PaSPL1, is active in reproductive meristems, whereas two putative negative regulators of PaSPL1, microRNA156 and the conifer specific miR529, both are upregulated in vegetative meristems and transition shoots. By allele-specific assembly, we identify a mutation in the miRNA binding-site of the acrocona PaSPL1 allele. Data presented suggest that the mutation renders the acrocona allele micro-RNA resistant. Finally, by genotyping a segregating population of inbred acrocona trees, we show a clear co-segregation between the early cone-setting phenotype and trees homozygous for the acrocona mutation.</DESCRIPTION>
+<UMBRELLA_PROJECT/>
+<RELATED_PROJECTS>
+<RELATED_PROJECT>
+<CHILD_PROJECT accession="PRJEB45866"/>
+</RELATED_PROJECT>
+<RELATED_PROJECT>
+<CHILD_PROJECT accession="PRJEB45891"/>
+</RELATED_PROJECT>
+<RELATED_PROJECT>
+<CHILD_PROJECT accession="PRJEB45892"/>
+</RELATED_PROJECT>
+<RELATED_PROJECT>
+<CHILD_PROJECT accession="PRJEB55120"/>
+</RELATED_PROJECT>
+</RELATED_PROJECTS>
+</PROJECT>
+</PROJECT_SET>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAMPLE_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.sample.xsd">
+ <SAMPLE alias="UPSC-0196-S0001" center_name="UPSC">
+  <TITLE>F1-10-08</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Female cone of Wild-type genotype sampled on 08-Oct 2013 from tree number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0196-S0002" center_name="UPSC">
+  <TITLE>F2-10-08</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Female cone of Wild-type genotype sampled on 08-Oct 2013 from tree number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0196-S0003" center_name="UPSC">
+  <TITLE>F3-10-08</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Female cone of Wild-type genotype sampled on 08-Oct 2013 from tree number 3</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0196-S0004" center_name="UPSC">
+  <TITLE>F4-10-08</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Female cone of Wild-type genotype sampled on 08-Oct 2013 from tree number 4</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0196-S0005" center_name="UPSC">
+  <TITLE>F5-10-08</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Female cone of Wild-type genotype sampled on 08-Oct 2013 from tree number 5</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0196-S0006" center_name="UPSC">
+  <TITLE>V1-10-08</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Vegetative primordia of Wild-type genotype sampled on 08-Oct 2013 from tree number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0196-S0007" center_name="UPSC">
+  <TITLE>V2-10-08</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Vegetative primordia of Wild-type genotype sampled on 08-Oct 2013 from tree number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0196-S0008" center_name="UPSC">
+  <TITLE>V3-10-08</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Vegetative primordia of Wild-type genotype sampled on 08-Oct 2013 from tree number 3</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0196-S0009" center_name="UPSC">
+  <TITLE>V4-10-08</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Vegetative primordia of Wild-type genotype sampled on 08-Oct 2013 from tree number 4</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0196-S0010" center_name="UPSC">
+  <TITLE>V5-10-08</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3329</TAXON_ID>
+   <SCIENTIFIC_NAME>Picea abies</SCIENTIFIC_NAME>
+   <COMMON_NAME>Norway spruce</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Vegetative primordia of Wild-type genotype sampled on 08-Oct 2013 from tree number 5</DESCRIPTION>
+ </SAMPLE>
+</SAMPLE_SET>
