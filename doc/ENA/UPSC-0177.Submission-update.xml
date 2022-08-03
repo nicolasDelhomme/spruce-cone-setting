@@ -3,7 +3,7 @@
 <SUBMISSION alias="UPSC-0177" center_name="UPSC">
 <ACTIONS>
 <ACTION>
-<MODIFY source="UPSC-0177.Project-update.xml" schema="project"/>
+<MODIFY source="UPSC-0177.Project.xml" schema="project"/>
 </ACTION>
 </ACTIONS>
 </SUBMISSION>

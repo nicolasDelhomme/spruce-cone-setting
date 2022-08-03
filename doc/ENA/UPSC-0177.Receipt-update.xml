@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
+<RECEIPT receiptDate="2022-08-03T06:51:04.465+01:00" submissionFile="UPSC-0177.Submission-update.xml" success="true">
+     <PROJECT accession="PRJEB45942" alias="UPSC-0177" status="PRIVATE" holdUntilDate="2023-06-27+01:00"/>
+     <SUBMISSION accession="ERA5023457" alias="UPSC-0177"/>
+     <MESSAGES>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for PRJEB45942.</INFO>
+     </MESSAGES>
+     <ACTIONS>MODIFY</ACTIONS>
+</RECEIPT>
