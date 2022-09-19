@@ -16,6 +16,10 @@ Shirin Akhter1§, Karl Johan Westrin2§, Nathan Zivi1§, Veronika Nordal1, Warre
 ## Abstract
 Here, we utilize the early cone-setting acrocona mutant to study reproductive phase change in the conifer Picea abies; a representative of the gymnosperm lineage. The acrocona mutant frequently initiates cone-like structures, called transition shoots, in positions where wild-type P. abies always produces vegetative shoots. By sequence analysis of mRNA and microRNA transcripts, we demonstrate that a member of the SQUAMOSA BINDING PROTEIN-LIKE (SPL) gene family, PaSPL1, is active in reproductive meristems, whereas two putative negative regulators of PaSPL1, microRNA156 and the conifer specific miR529, both are upregulated in vegetative meristems and transition shoots. By allele-specific assembly, we identify a mutation in the miRNA binding-site of the acrocona PaSPL1 allele. Data presented suggest that the mutation renders the acrocona allele micro-RNA resistant. Finally, by genotyping a segregating population of inbred acrocona trees, we show a clear co-segregation between the early cone-setting phenotype and trees homozygous for the acrocona mutation.
 
-## Setup
-
 ## Data availability
+The data is available at the European Nucleotide Archive (ENA) under the accession [PRJEB45942](https://www.ebi.ac.uk/ena/browser/view/PRJEB45942).
+
+## Setup
+After retrieving the raw data, these can be processed using the scripts in the pipeline directory, using the sample information in the doc directory. The pre-processed data is then the input for the analysis scripts in src/R.
+
+
