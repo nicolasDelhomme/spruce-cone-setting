@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
+<RECEIPT receiptDate="2022-08-02T15:31:48.620+01:00" submissionFile="UPSC-0177.Submission-update.xml" success="false">
+     <SUBMISSION alias="UPSC-0177"/>
+     <MESSAGES>
+          <ERROR>In project, alias:"UPSC-0177", accession:"". Failed to find CHILD PROJECT reference:PRJEB55120 in RELATED_PROJECTS element.</ERROR>
+          <INFO>This submission is a TEST submission and will be discarded within 24 hours</INFO>
+     </MESSAGES>
+     <ACTIONS>MODIFY</ACTIONS>
+</RECEIPT>
